@@ -1,1 +1,1 @@
-# Merchant-SDK
+# merchant-sdk
